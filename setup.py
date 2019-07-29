@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="p2pcam",
-    version="0.0.1",
+    version="0.0.2",
     author="IndyKoning",
     description="A package to talk to p2p cameras",
     long_description=long_description,
