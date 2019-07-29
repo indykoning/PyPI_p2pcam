@@ -10,7 +10,7 @@ setuptools.setup(
     description="A package to talk to p2p cameras",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/indykoning/PyPI_p2pcam",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
